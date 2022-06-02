@@ -1,1 +1,2 @@
-
+import Sher
+Main()
